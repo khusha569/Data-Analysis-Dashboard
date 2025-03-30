@@ -6,7 +6,7 @@ This dashboard is instrumental in enabling actionable insights to improve sales 
 ➡️ Total Footfall: 149,116 visitors
 ➡️ Average Bill/Person: $4.69
 ➡️ Average Orders/Person: 1.44
-# Included Features in this dashboard 
+# ⏺️ Included Features in this dashboard 
 ➡️ Data Cleaning & Formatting : By using the conditional and duplicate columns, extract, tranform and trim function.
 ➡️ Pivot Tables & Measures : Total Sales, footfall of the various factors and categories wise total sales.
 ➡️ Visualizations : Line chart, clustered column chart, pie charts and bar charts.
